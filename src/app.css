@@ -89,6 +89,27 @@
 
 .parag {
   max-width: 85%;
+  background-color: white;
+}
+
+.bgwhite {
+  background-color: white;
+}
+
+.picBack {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.picback img {
+  width: auto;
+  height: auto;
 }
 
 .nav-link {

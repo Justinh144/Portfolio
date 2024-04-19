@@ -2,13 +2,14 @@ import justin from '../../../assets/images/Justin.jpg';
 
 export default function Home() {
     return (
-      <div className="container d-flex flex-column align-items-center">
+      <div className="bgwhite container d-flex flex-column align-items-center">
         <h1 className="font70 beau margin20">Justin Hodges</h1>
-        <p className="font30 nuni">
-       
+        <p className="font30 nuni picBack">
+        <img src={justin} className="picBack" style={{ width: "40%", height: "auto", borderRadius: "20px", }}/>
         </p>
-        <img src={justin} className="img=fluid" style={{ width: "40%", height: "auto", borderRadius: "20px" }}/>
+        {/* <img src={justin} className="picBack" style={{ width: "40%", height: "auto", borderRadius: "20px", }}/> */}
         <p class="beau margin30 font70 parag">
+          
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! My name is Justin Hodges and I recently completed Vanderbilt University's Programming certification.
         At this point in my life I had worked several jobs with computer based duties such as processing and filling shipping
         orders through a companies internal online sales app or ensuring that the stores physical inventory
