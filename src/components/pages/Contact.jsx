@@ -43,7 +43,7 @@ export default function Contact() {
       errors.email = 'Invalid Email Entry';
     }
 
-    if (!formData.message) errors.message = 'Message sent!';
+    if (!formData.message) errors.message = 'Back-End is still under development, please contact me via LinkedIn or justinhodges2023@gmail.com';
     return errors;
   };
 
