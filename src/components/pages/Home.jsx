@@ -10,7 +10,8 @@ export default function Home() {
         {/* <img src={justin} className="picBack" style={{ width: "40%", height: "auto", borderRadius: "20px", }}/> */}
         <p class="beau margin30 font70 parag">
           
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! My name is Justin Hodges and I recently completed Vanderbilt University's Programming certification.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! My name is Justin Hodges and after much intensive study and researching 
+        I recently completed Vanderbilt University's Programming certification.
         At this point in my life I had worked several jobs with computer based duties such as processing and filling shipping
         orders through a companies internal online sales app or ensuring that the stores physical inventory
         matched it's digital inventory. However while I did understand the fundamental concept of programming
