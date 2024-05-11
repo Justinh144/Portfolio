@@ -1,3 +1,4 @@
+import JHProg from '../../../assets/images/JHProg.jpg'
 
 export default function Resume() {
 
@@ -12,7 +13,8 @@ const pdfFile = "../../../JHProgrammingResume.pdf";
             style={{ marginBottom: '20px', display: 'inline-block' }}>
              🡲 Download 🡰
             </a>
-
+        
+        <img src={JHProg} alt="resume" class="image"/>
           
         </div>
     );

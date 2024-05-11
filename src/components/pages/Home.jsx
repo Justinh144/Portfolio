@@ -8,7 +8,7 @@ export default function Home() {
         <img src={justin} className="picBack" style={{ width: "40%", height: "auto", borderRadius: "20px", }}/>
         </p>
         {/* <img src={justin} className="picBack" style={{ width: "40%", height: "auto", borderRadius: "20px", }}/> */}
-        <p class="beau margin30 font70 parag">
+        <p class="nuni margin30 font70 parag">
           
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! My name is Justin Hodges and after much intensive study and researching 
         I recently completed Vanderbilt University's Programming certification.
@@ -17,20 +17,20 @@ export default function Home() {
         matched it's digital inventory. However while I did understand the fundamental concept of programming
         I knew next to nothing as far as actual code or syntax.</p>
 
-        <p class="beau margin30 font70 parag">
+        <p class="nuni margin30 font70 parag">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I had been using computers my entire life and even built my own PC, 
         so after researching several possible trades that would be lucrative but would take some time, even a few years,
         I believed web developing was the best choice. Soon I would find that I genuinly did enjoy creating applications
         and debugging code as I learned new modules and technologies.</p>
 
-        <p class="beau margin30 font70 parag">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the following tabs you will find my resume, a portfolio of apps I have made,
+        <p class="nuni margin30 font70 parag">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the following tabs you will find my resume, a portfolio of apps I have made,
         links to my Github and linkedIn, and a contact form. As of typing this I have completed the certification less than a 
         week ago, and have several friends and family with their own business pursuits who could use an official website
         so I plan to be working on that while I search potential career oppertunities. I am interested in any
         and all work that needs to get done.
         </p>
 
-        <p class="beau margin30 font70 parag">
+        <p class="nuni margin30 font70 parag">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I appreciate you taking the time to read all this, I'll be updating it as I add new applications 
           and more about the tech industry. Hope to hear from you soon!
 

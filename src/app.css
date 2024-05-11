@@ -135,7 +135,7 @@
    display: flex;
  }
 
-f
+
 
 .nav {
     border-style: none;
@@ -174,12 +174,20 @@ f
   margin-top: 50px;
 }
 
+/* .image {
+  max-width: 100%;
+} */
+
 .footer {
  
 }
 
 .header {
   
+}
+
+.image {
+  max-width: 100%;
 }
 
 @media (min-width: 297px) {
@@ -194,6 +202,12 @@ f
       
     }
 
+    /* .image {
+      max-width: 150%;
+    } */
+
+
+    
       .font70 {
         font-size: 2rem; /* Adjust based on your needs */
       }
@@ -218,6 +232,9 @@ f
         text-align: center;
       }
     
+      /* .image {
+        max-width: 100%;
+      } */
 
     .font70 {
       font-size: 2rem; /* Adjust based on your needs */
